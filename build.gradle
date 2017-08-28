@@ -5,3 +5,5 @@ apply plugin: 'java'
 repositories {
     jcenter()
 }
+
+//dependencies are managed in the sub-projects
