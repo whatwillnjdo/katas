@@ -1,6 +1,6 @@
 # Smart Fill
 
-## Difficult Level - Intermediate
+Difficult Level - Intermediate
 
 ## This kata focuses on:
 1) Test Driven Development (TDD)
