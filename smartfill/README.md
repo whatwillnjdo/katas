@@ -15,9 +15,13 @@ Difficult Level - Intermediate
 5) Keep test coverage 100%
 
 ## Objective:
-The problem that you would be solving, is to create a class of flasks: different shapes and sizes, and a container: any shape and size. Assuming an unlimited supply of a liquid and the flask is auto-filled every time when it is emptied, need to find the arrangement to fill the container with minimal repetition & combination of flasks and the wastage (remaining in the last flask after the container is full), complying with certain constraints.
+The problem that you would be solving, is to create a class of flasks: different shapes and sizes, and a container: 
+any shape and size. Assuming an unlimited supply of a liquid and the flask is auto-filled every time when it is 
+emptied, need to find the arrangement to fill the container with minimal iteration of flasks and the wastage (remaining
+ in the last flask after the container is full), complying with certain constraints.
 
-NOTE: To make the calculations simple and focus on concepts, consider the dimensions to be positive integers only and round-off the volume to the nearest integer value.
+**NOTE: To make the calculations simple and focus on concepts, consider the dimensions to be positive integers only 
+and round-off the volume to the nearest (preferably, higher) integer value.**
 
 ## Step 1
 1) Create class for a cylindrical flask. Don’t worry about the different shapes.
@@ -81,4 +85,4 @@ NOTE: To make the calculations simple and focus on concepts, consider the dimens
 2) Should be able to accept a container (any shape & size) and a collection of flasks (any shape & size), at least 3 flasks.
 3) No two flasks should be of same volume.
 4) The sum of volume of all flasks should not be more than 2/3 of the container.
-5) Try to keep the repetition of flask and wastage of liquid to be minimal.
+5) Try to keep the wastage of liquid and the usage of flasks to be minimal.
