@@ -82,7 +82,8 @@ and round-off the volume to the nearest (preferably, higher) integer value.**
 
 ## Step 5
 1) Refactor the “FillContainer” class to “SmartFill”
-2) Should be able to accept a container (any shape & size) and a collection of flasks (any shape & size), at least 3 flasks.
+2) Should be able to accept a container (any shape & size) and a collection of flasks (any shape & size), at least 1 flask.
 3) No two flasks should be of same volume.
 4) The sum of volume of all flasks should not be more than 2/3 of the container.
 5) Try to keep the wastage of liquid and the usage of flasks to be minimal.
+
